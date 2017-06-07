@@ -1,0 +1,10 @@
+/*
+Theme Name: AMP Compatible Theme Child Theme
+Theme URI: https://google.com
+Description: Provides AMP content support
+Author: Google
+Author URI: https://google.com
+Template: amp
+Version: 0.1.0
+*/
+@import url("../amp/style.css");
