@@ -8,3 +8,9 @@ Template: amp
 Version: 0.1.0
 */
 @import url("../amp/style.css");
+
+/*--------------------------------------------------------------
+# AMP Start Baseline CSS
+--------------------------------------------------------------*/
+@import url("css/ampstart-article.css");
+
