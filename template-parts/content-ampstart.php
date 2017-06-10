@@ -1,4 +1,4 @@
-<?php
+<?php namespace amp_child_theme;
 /**
  * Template part for displaying posts
  *
@@ -18,7 +18,7 @@
 			<div class="entry-meta">
 				<?php amp_posted_on(); ?>
 			</div><!-- .entry-meta -->
-			<?php
+		    <?php
 		endif; ?>
 	</header><!-- .entry-header -->
 

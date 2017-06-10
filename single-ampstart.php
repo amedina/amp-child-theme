@@ -1,4 +1,5 @@
-<?php
+<?php namespace amp_child_theme;
+
 /**
  * The template for displaying all single posts
  *
